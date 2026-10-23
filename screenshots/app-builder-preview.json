@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Peta Sleman",
+      "hasCanvas": false,
+      "bodyTextLen": 709,
+      "bodyTextHash": "11297d0fc9b4f7a07fbb38ec05b3a8796d525a274ec491d6b61eed7d8103cfbf",
+      "bodyTextPrefix": "DAERAH ISTIMEWA YOGYAKARTA Kabupaten Sleman 17 kecamatan · 576,2",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Peta Sleman",
+      "hasCanvas": false,
+      "bodyTextLen": 684,
+      "bodyTextHash": "d6b62e5df890be6e013bf4263821d229874cbbbf8e7491e42529f6939758fe3c",
+      "bodyTextPrefix": "DAERAH ISTIMEWA YOGYAKARTA Kabupaten Sleman Moyudan 27,6 km² Min",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

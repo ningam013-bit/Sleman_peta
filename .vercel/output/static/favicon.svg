@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Peta Sleman">
+  <rect width="32" height="32" rx="7" fill="#1c2b24"/>
+  <path d="M6.5 20.5h19v2.4c0 2.4-1.8 4.1-4.2 4.1h-10.6c-2.4 0-4.2-1.7-4.2-4.1v-2.4z" fill="#1f6a45"/>
+  <path d="M6.5 23h19" stroke="#efe6d6" stroke-width="1.15" stroke-linecap="square"/>
+  <path d="M9.2 20.6 16 8.2 22.8 20.6Z" fill="#c45c28"/>
+  <path d="M14.15 14.7 16 11.5 17.85 14.7 16 13.55Z" fill="#efe6d6"/>
+</svg>
